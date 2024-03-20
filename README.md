@@ -56,7 +56,7 @@ const age = exactAge(dob); // Output: 19
 
 ## Socials
 
-<div style="display: flex; gap: .75rem; height: 50px">
+<div style="display: inline-flex; gap: .75rem; height: 50px">
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/dpaulos6)
 
