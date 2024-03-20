@@ -56,7 +56,7 @@ const age = exactAge(dob); // Output: 19
 
 ## Socials
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/dpaulos6) [![Instagram](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/dpaulos6) [![Instagram](https://skillicons.dev/icons?i=github)](https://github.com7dpaulos6) [![Instagram](https://skillicons.dev/icons?i=discord)](https://discord.gg/Y7ujpKmmma)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/dpaulos6) [![Instagram](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/dpaulos6) [![Instagram](https://skillicons.dev/icons?i=github)](https://github.com/dpaulos6) [![Instagram](https://skillicons.dev/icons?i=discord)](https://discord.gg/Y7ujpKmmma)
 
 ## License
 
