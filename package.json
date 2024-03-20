@@ -1,0 +1,23 @@
+{
+  "name": "exact-age",
+  "version": "0.0.1",
+  "description": "Outputs the exact age of a given date of birth.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "age",
+    "date",
+    "dob",
+    "date utils",
+    "timestamp",
+    "time",
+    "date calculator"
+  ],
+  "author": "dpaulos6",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.2"
+  }
+}
